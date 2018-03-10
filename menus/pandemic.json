@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle pandemic",
+        "command": "pandemic:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "pandemic",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "pandemic:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "pandemic",
+  "main": "./lib/pandemic",
+  "version": "0.0.0",
+  "description": "Atom plugin for Pandemic",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "pandemic:toggle"
+  },
+  "repository": "https://github.com/atom/pandemic",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "pandemic": "0.2.1"
+  }
+}
