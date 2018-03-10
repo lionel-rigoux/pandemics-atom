@@ -15,7 +15,7 @@ describe('Pandemic', () => {
     activationPromise = atom.packages.activatePackage('pandemic');
   });
 
-  describe('when the pandemic:toggle event is triggered', () => {
+  describe('when the pandemic:publish event is triggered', () => {
     it('hides and shows the modal panel', () => {
       // Before the activation event the view is not on the DOM, and no panel
       // has been created

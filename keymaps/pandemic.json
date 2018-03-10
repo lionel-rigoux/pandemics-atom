@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "pandemic:toggle"
+    "ctrl-cmd-p": "pandemic:publish"
   }
 }

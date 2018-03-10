@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle pandemic",
-        "command": "pandemic:toggle"
+        "command": "pandemic:publish"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "pandemic",
+          "label": "Pandemic",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "pandemic:toggle"
+              "label": "Publish",
+              "command": "pandemic:publish"
             }
           ]
         }

@@ -1,12 +1,12 @@
 {
-  "name": "pandemic",
+  "name": "Pandemic",
   "main": "./lib/pandemic",
   "version": "0.0.0",
   "description": "Atom plugin for Pandemic",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "pandemic:toggle"
+    "atom-workspace": "pandemic:publish"
   },
   "repository": "https://github.com/atom/pandemic",
   "license": "MIT",
@@ -14,6 +14,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "pandemic": "0.2.1"
+    "pandemic": "0.2.2"
   }
 }
