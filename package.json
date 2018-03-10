@@ -1,5 +1,5 @@
 {
-  "name": "Pandemic",
+  "name": "pandemic",
   "main": "./lib/pandemic",
   "version": "0.3.0",
   "description": "Atom plugin for Pandemic",
