@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "pandemic:publish"
   },
-  "repository": "https://github.com/atom/pandemic",
+  "repository": "https://github.com/lionel-rigoux/pandemic-plugin",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
