@@ -1,10 +1,9 @@
 {
   "name": "Pandemic",
   "main": "./lib/pandemic",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom plugin for Pandemic",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "pandemic:publish"
   },
