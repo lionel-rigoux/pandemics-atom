@@ -3,7 +3,7 @@
   "main": "./lib/pandemic",
   "version": "0.3.4",
   "description": "Atom plugin for Pandemic",
-  "keywords": [],
+  "keywords": ["pandoc","writing","productivity"],
   "activationCommands": {
     "atom-workspace": "pandemic:publish"
   },
@@ -13,6 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "pandemic": "0.2.3"
+    "pandemic": "0.2.4"
   }
 }
