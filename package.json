@@ -1,9 +1,13 @@
 {
   "name": "pandemic",
   "main": "./lib/pandemic",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "Atom plugin for Pandemic",
-  "keywords": ["pandoc","writing","productivity"],
+  "keywords": [
+    "pandoc",
+    "writing",
+    "productivity"
+  ],
   "activationCommands": {
     "atom-workspace": "pandemic:publish"
   },
