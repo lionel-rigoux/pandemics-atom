@@ -1,17 +1,21 @@
 {
   "name": "pandemic",
-  "main": "./lib/pandemic",
   "version": "1.0.2",
-  "description": "Atom plugin for Pandemic",
+  "description": "Convert your document using Pandemic",
+  "author": "Lionel Rigoux <lionel.rigoux@gmail.com>",
   "keywords": [
     "pandoc",
     "writing",
     "productivity"
   ],
+  "main": "./lib/pandemic",
   "activationCommands": {
     "atom-workspace": "pandemic:publish"
   },
-  "repository": "https://github.com/lionel-rigoux/pandemic-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lionel-rigoux/pandemic-plugin"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
