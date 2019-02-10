@@ -27,6 +27,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "pandemic": "2.0.0"
+    "pandemic": "2.0.1"
   }
 }
