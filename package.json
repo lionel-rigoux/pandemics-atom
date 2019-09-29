@@ -1,31 +1,16 @@
 {
-  "name": "pandemic",
-  "version": "2.0.3",
-  "description": "Convert your document using Pandemic",
-  "homepage": "https://lionel-rigoux.github.io/pandemic/",
+  "name": "pandemics",
+  "version": "0.0.0",
+  "description": "Pandoc for academics",
+  "homepage": "https://pandemics.gitlab.io",
   "author": "Lionel Rigoux <lionel.rigoux@gmail.com> (https://lionel-rigoux.github.io/)",
   "keywords": [
     "pandoc",
     "writing",
     "productivity"
   ],
-  "main": "./lib/pandemic",
-  "activationCommands": {
-    "atom-workspace": "pandemic:publish"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lionel-rigoux/pandemic-plugin.git"
-  },
-  "bugs": {
-    "url": "https://github.com/lionel-rigoux/pandemic-plugin/issues"
-  },
-  "contributors": [],
-  "license": "MIT",
+  "repository": "github:lionel-rigoux/pandemics-atom",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-    "pandemic": "2.0.2"
+    "atom": ">=1.0.0"
   }
 }
