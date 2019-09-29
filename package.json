@@ -9,8 +9,12 @@
     "writing",
     "productivity"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lionel-rigoux/pandemics-atom.git"
+  },
   "repository": "github:lionel-rigoux/pandemics-atom",
   "engines": {
-    "atom": ">=1.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }
