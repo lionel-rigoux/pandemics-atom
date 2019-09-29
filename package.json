@@ -3,17 +3,13 @@
   "version": "0.0.0",
   "description": "Pandoc for academics",
   "homepage": "https://pandemics.gitlab.io",
-  "author": "Lionel Rigoux <lionel.rigoux@gmail.com> (https://lionel-rigoux.github.io/)",
+  "author": "Lionel Rigoux <lionel.rigoux@gmail.com>",
   "keywords": [
     "pandoc",
     "writing",
     "productivity"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lionel-rigoux/pandemics-atom.git"
-  },
-  "repository": "github:lionel-rigoux/pandemics-atom",
+  "repository": "https://github.com/lionel-rigoux/pandemics-atom",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
