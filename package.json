@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lionel-rigoux/pandemics-atom-plugin.git"
+    "url": "https://github.com/lionel-rigoux/pandemics-atom.git"
   },
   "bugs": {
-    "url": "https://github.com/lionel-rigoux/pandemics-atom-plugin/issues"
+    "url": "https://github.com/lionel-rigoux/pandemics-atom/issues"
   },
   "contributors": [],
   "license": "MIT",
