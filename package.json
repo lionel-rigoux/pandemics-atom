@@ -1,6 +1,6 @@
 {
   "name": "pandemics",
-  "version": "0.10.1",
+  "version": "0.10.0",
   "description": "Convert your document using Pandemics",
   "homepage": "https://pandemics.gitlab.io",
   "author": "Lionel Rigoux <lionel.rigoux@gmail.com> (https://lionel-rigoux.github.io/)",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/pandemics/atom.git"
+    "url": "https://github.com/lionel-rigoux/pandemics-atom"
   },
   "bugs": {
-    "url": "https://gitlab.com/pandemics/atom/issues"
+    "url": "https://github.com/lionel-rigoux/pandemics-atom/issues"
   },
   "contributors": [],
   "license": "MIT",
