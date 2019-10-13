@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle pandemics",
+        "command": "pandemics:publish"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Pandemics",
+          "submenu": [
+            {
+              "label": "Publish",
+              "command": "pandemics:publish"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
